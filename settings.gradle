@@ -1,0 +1,1 @@
+include ':app', ':zxingorg-2.2-javadoc'

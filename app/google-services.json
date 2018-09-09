@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1018221497830",
+    "firebase_url": "https://formal-landing-158622.firebaseio.com",
+    "project_id": "formal-landing-158622",
+    "storage_bucket": "formal-landing-158622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018221497830:android:e824ccc20a8eec1d",
+        "android_client_info": {
+          "package_name": "mx.com.qrbbva.qrbbva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018221497830-l0r2ci3vpe7qb4sejv11cjcsclg8u8r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLBqa_0NEnX8qx4xQYLvjFk-GLC9V2lPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('zxingorg-2.2-javadoc.jar'))
